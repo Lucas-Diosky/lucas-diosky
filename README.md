@@ -1,4 +1,15 @@
-## Hi there 👋
+## Sejam Bem-vindo!
+
+❄️ Olá, me chamo Lucas Araujo!
+
+✉️ Sou Desenvolvedor de Sistemas.
+
+✉️ [Acesse o meu Linkedin](https://www.linkedin.com/in/lucas-araujo-a5a72a282/)
+
+--------
+
+## Minhas tecnologias 
+
 
 <!--
 **Lucas-Diosky/lucas-diosky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
